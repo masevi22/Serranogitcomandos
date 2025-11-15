@@ -1,3 +1,6 @@
 1
 $ mkdir examen
 $ mkdir examen/una examen/dos examen/tres
+
+2
+touch una/nombre.txt
